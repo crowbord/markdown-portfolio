@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cute guinea pig contact](https://www.omlet.us/images/originals/guinea_pig_breeds_crested_hand_tamed.jpg)
