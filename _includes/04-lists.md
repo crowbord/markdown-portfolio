@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Toast, the pup
+* Mark, the guy
+* food
+* friendos
+* being left alone
